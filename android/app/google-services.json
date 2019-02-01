@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "539418358385",
+    "firebase_url": "https://notebook-ucsc.firebaseio.com",
+    "project_id": "notebook-ucsc",
+    "storage_bucket": "notebook-ucsc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539418358385:android:3afa95522650632c",
+        "android_client_info": {
+          "package_name": "com.rs.notebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539418358385-3nfnpu7s0adhgl524m5fg22bcv1v7cc6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rs.notebook",
+            "certificate_hash": "d6c935c014c611190de343982f30cd825e0e739d"
+          }
+        },
+        {
+          "client_id": "539418358385-79k2olcnneqjoi5n9pv5bufjbj3746hf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHYGosK9CiyW0y4Xw4y6u99HmOeKWRlu0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539418358385-79k2olcnneqjoi5n9pv5bufjbj3746hf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
